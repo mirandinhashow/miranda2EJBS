@@ -5,10 +5,15 @@
 
 .cabecalho{
     background-color: #424e61;
-    display: flex;
+    display: flex;   
+    justify-content: space-around;
 }
 
 .lista-cabecalho{
     color: white;
     font-size: 23px;
+} 
+
+.lista-item{
+    display: inline-block;
 }
